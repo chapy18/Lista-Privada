@@ -1,0 +1,68 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="TNT Sports",TNT Sports
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-id="ESPN",ESPN
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-id="TyC Sports",TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1,Fox Sports PREMIUM
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-id="El Trece HD",El Trece HD
+https://edge4-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#EXTINF:-1 tvg-id="El Trece HD",El Trece HD
+https://edge4-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#EXTINF:-1 tvg-id="Telefe",Telefe
+https://edge4-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF:-1 tvg-id="América TV HD",América TV HD
+https://edge4-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#EXTINF:-1 tvg-id="Canal 26",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="Elnueve",Elnueve
+https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro",Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Pública",Tv Pública
+https://edge4-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+#EXTINF:-1 tvg-id="History",History
+https://edge4-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-1,H&H
+https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 tvg-id="TLC",TLC
+https://edge4-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
+https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel",Disney Channel
+https://edge4-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1 tvg-id="HBO",HBO
+https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1 tvg-id="HBO2",HBO2
+https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1,HBO Plus
+https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1 tvg-id="Star Channel",Star Channel
+https://edge4-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1,Los Simpsons
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w628898891.m3u8
